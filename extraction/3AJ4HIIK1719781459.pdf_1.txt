@@ -1,0 +1,22 @@
+Store Name: GEMO SENS
+Location: LES PORTES DE BOURGOGNES, ZAC AUCHAN - NO, 893100 SENS
+Contact Number: 0386950886
+Store Code: 05368
+Transaction Code: 122367
+Cashier Code: 01
+Purchase Date & Time: 28/06/2024 at 11:54
+
+Purchased Items:
+1. PARAPLUIE BLANC ST TU - 9.99
+2. HOMEWEAR Vert GANS - 12.39
+3. SANDALE SP ROUGE FO 28 - 24.39
+4. JOGGER BLEU 28 - 29.9393
+
+Discount: -9.00 
+Total: 68.96
+Payment Mode: Credit Card
+Total after VAT: 68.96
+
+VAT Rate: 20 %
+VAT Amount: 11.51 €
+Subtotal before VAT: 57.45 €

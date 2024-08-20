@@ -1,0 +1,30 @@
+Company Name: Monat Global France
+Company Address: 78 Avenue des Champs-Elysées, 75008 Paris
+Telephone: 0805 102 849
+
+Customer Name: Marie Courbet
+Customer Billing Address: 22 Boulevard Bonniot, Marseille, 13012, France
+Customer Contact: 0658196252
+
+Shipping Address: 22 Boulevard Bonniot, Marseille, 13012, France
+
+Purchase Made:
+1. IR Clinical Hair Thinning Serum EU JUN24 - 18.00 Euros
+2. IR.Clinical™ Hair Thinning Serum 1.7 OZ - 0.00 Euros
+3. IR Clinical™ Thickening Conditioner 60z - 46.00 Euros
+4. Purifying Vinegar Shampoo EU JUN24 - 18.00 Euros
+5. FR Purifying Vinegar Shampoo & FI - 0.00 Euros
+6. Hydrate & Refresh Face Mist 3.4 - 32.00 Euros
+
+Discount: 15% Purchase Plus (FRA MP) - 11.70 Euros
+Shipping Fee: 0.00 Euros
+Handling Fee: 6.00 Euros
+VAT: 20%
+VAT amount: 20.00 Euros 
+
+Subtotal: 102.30 Euros
+Total Amount Due: 108.30 Euros
+Payment Method: Fiserv
+
+Late Penalty Rate: 3 times legal interest rate
+Fixed Compensation for Recovery Costs: 40 Euros.
