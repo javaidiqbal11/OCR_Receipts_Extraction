@@ -11,7 +11,7 @@ This project is a FastAPI-based service for extracting and refining information 
 
 
 ## Requirements
-Python 3.7+
+Python 3.7+ <br>
 FastAPI
 
 **How to run?**
