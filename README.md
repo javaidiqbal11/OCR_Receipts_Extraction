@@ -14,9 +14,27 @@ This project is a FastAPI-based service for extracting and refining information 
 Python 3.7+ <br>
 FastAPI
 
-**How to run?**
-
+**Setup**
+1. Clone the Repository
+  ```shell
+git clone https://github.com/javaidiqbal11/OCR_Receipts_Extraction.git
+cd OCR_Receipts_Extraction
+```
+2. Install Dependencies
 ```shell
 pip install -r requirements.txt
 ```
+3. Environment Variables
+Create a .env file in the root directory with the following contents:
+```shell
+OPENAI_API_KEY=your-openai-api-key
+TESSERACT_CMD_PATH=/path/to/tesseract
+```
+4. Run the Application
+```shell
+uvicorn main:app --reload
+```
+
+
+
 
