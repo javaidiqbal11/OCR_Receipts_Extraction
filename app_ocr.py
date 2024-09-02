@@ -1,3 +1,5 @@
+# Import the required libraries
+ 
 from fastapi import FastAPI, File, UploadFile, HTTPException
 from PIL import Image
 import fitz  # PyMuPDF
