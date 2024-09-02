@@ -13,6 +13,7 @@ This project is a FastAPI-based service for extracting and refining information 
 ## Requirements
 Python 3.7+ <br>
 FastAPI
+Tesseract 
 
 **Setup**
 1. Clone the Repository
@@ -34,7 +35,3 @@ TESSERACT_CMD_PATH=/path/to/tesseract
 ```shell
 uvicorn main:app --reload
 ```
-
-
-
-
