@@ -12,8 +12,10 @@ This project is a FastAPI-based service for extracting and refining information 
 
 ## Requirements
 Python 3.7+ <br>
-FastAPI
+FastAPI <br>
 Tesseract 
+
+### The OCR built-in (Tesseract) used for the receipt extraction 
 
 **Setup**
 1. Clone the Repository
